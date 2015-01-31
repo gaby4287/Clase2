@@ -1,0 +1,24 @@
+es un editor de texto
+estoy escribiendo en el archivo como bloc de notas
+
+
+mint@mint ~ $ ls
+Desktop    Downloads  Pictures  Templates  workspace
+Documents  Music      Public    Videos
+mint@mint ~ $ mkdir MiCarpeta
+mint@mint ~ $ cd MiCarpeta
+mint@mint ~/MiCarpeta $ 
+mint@mint ~/MiCarpeta $ ls
+mint@mint ~/MiCarpeta $ ls
+mint@mint ~/MiCarpeta $ mkdir TercerFolder
+mint@mint ~/MiCarpeta $ ls
+TercerFolder
+mint@mint ~/MiCarpeta $ tocuh nuevo
+No command 'tocuh' found, did you mean:
+ Command 'touch' from package 'coreutils' (main)
+tocuh: command not found
+mint@mint ~/MiCarpeta $ touch nuevo
+mint@mint ~/MiCarpeta $ nano nuevo
+mint@mint ~/MiCarpeta $ ^C
+mint@mint ~/MiCarpeta $ 
+
